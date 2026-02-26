@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1" name="SIE-Formacion">
+  <customUserInfoDefinitions/>
+  <users>
+    <user userName="Mayte">
+      <firstName>Mayte</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Javier">
+      <firstName>Javier</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Fernando">
+      <firstName>Fernando</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Fermín">
+      <firstName>Fermín</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Lola">
+      <firstName>Lola</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Carlos">
+      <firstName>Carlos</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="María">
+      <firstName>María</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Elena">
+      <firstName>Elena</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Antonio">
+      <firstName>Antonio</firstName>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+  </users>
+  <roles>
+    <role name="Gestión">
+      <displayName>Gestión</displayName>
+    </role>
+    <role name="Instructores">
+      <displayName>Instructores</displayName>
+    </role>
+    <role name="Alumnos">
+      <displayName>Alumnos</displayName>
+    </role>
+  </roles>
+  <groups>
+    <group name="Dirección">
+      <displayName>Dirección</displayName>
+    </group>
+    <group name="Tesorería">
+      <displayName>Tesorería</displayName>
+    </group>
+    <group name="Instructores">
+      <displayName>Instructores</displayName>
+    </group>
+    <group name="Alumnos">
+      <displayName>Alumnos</displayName>
+    </group>
+  </groups>
+  <memberships>
+    <membership>
+      <userName>Javier</userName>
+      <roleName>Gestión</roleName>
+      <groupName>Tesorería</groupName>
+    </membership>
+    <membership>
+      <userName>Mayte</userName>
+      <roleName>Gestión</roleName>
+      <groupName>Dirección</groupName>
+    </membership>
+    <membership>
+      <userName>Fernando</userName>
+      <roleName>Instructores</roleName>
+      <groupName>Instructores</groupName>
+    </membership>
+    <membership>
+      <userName>Fermín</userName>
+      <roleName>Instructores</roleName>
+      <groupName>Instructores</groupName>
+    </membership>
+    <membership>
+      <userName>Lola</userName>
+      <roleName>Instructores</roleName>
+      <groupName>Instructores</groupName>
+    </membership>
+    <membership>
+      <userName>Carlos</userName>
+      <roleName>Alumnos</roleName>
+      <groupName>Alumnos</groupName>
+    </membership>
+    <membership>
+      <userName>María</userName>
+      <roleName>Alumnos</roleName>
+      <groupName>Alumnos</groupName>
+    </membership>
+    <membership>
+      <userName>Elena</userName>
+      <roleName>Alumnos</roleName>
+      <groupName>Alumnos</groupName>
+    </membership>
+    <membership>
+      <userName>Antonio</userName>
+      <roleName>Alumnos</roleName>
+      <groupName>Alumnos</groupName>
+    </membership>
+  </memberships>
+</organization:Organization>
