@@ -12,14 +12,18 @@
     <user userName="Javier">
       <firstName>Javier</firstName>
       <personalData/>
-      <professionalData/>
+      <professionalData>
+        <email>javier@sie.com</email>
+      </professionalData>
       <password encrypted="false">bpm</password>
       <customUserInfoValues/>
     </user>
     <user userName="Fernando">
       <firstName>Fernando</firstName>
       <personalData/>
-      <professionalData/>
+      <professionalData>
+        <email>fernando@sie.com</email>
+      </professionalData>
       <password encrypted="false">bpm</password>
       <customUserInfoValues/>
     </user>
